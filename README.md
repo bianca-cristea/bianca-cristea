@@ -1,7 +1,7 @@
 <img align="center" alt="banner" width="100%" heigth="50px" src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg">
 <h1 align="center">Hi 👋, I'm Cristea Bianca</h1>
 <h3 align="center">MERN Stack enthusiast</h3>
-<image align="right" alt="Coding" width="400" src"https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<image align="right" alt="Coding" width="400" src"[https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)">
   - 🌱 I’m currently learning **MERN Stack**
   
 - Project [Chat App](https://github.com/bianca-cristea/Chat-App.git)
