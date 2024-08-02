@@ -1,10 +1,10 @@
-<img align="center" alt="banner" width="100%" src="https://i.pinimg.com/564x/97/a2/5c/97a25cedf0a2517cf61505d8e84949c5.jpg">
+<img align="center" alt="banner" width="100%" heigth="10%" src="https://i.pinimg.com/564x/97/a2/5c/97a25cedf0a2517cf61505d8e84949c5.jpg">
 <h1 align="center">Hi 👋, I'm Cristea Bianca</h1>
 <h3 align="center">MERN Stack enthusiast</h3>
 <image align="right" alt="Coding" width="400" src"https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+  - 🌱 I’m currently learning **MERN Stack**
+  
 - Project [Chat App](https://github.com/bianca-cristea/Chat-App.git)
-
-- 🌱 I’m currently learning **MERN Stack**
 
 - Project [Brainwave](https://github.com/bianca-cristea/Brainwave.git)
 
