@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="100%" heigth="50px" src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg">
+<img align="center" alt="banner" width="100%" heigth="50px" src="[https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg](https://i.pinimg.com/736x/11/4d/95/114d95861b38d44d93f6f698edbd2c6b.jpg)">
 <h1 align="center">Hi 👋, I'm Cristea Bianca</h1>
 <h3 align="center">MERN Stack enthusiast</h3>
 <image align="right" alt="Coding" width="400" src"img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bianca-cristea?tab=repositories](https://github.com/bianca-cristea?tab=repositories)
 
-- 📫 How to reach me **bianca.cristea01@yahoo.com**
+- 📫 How to reach me **bbianca.ccristea@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
