@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="80%" heigth="40px" src="https://i.pinimg.com/736x/11/4d/95/114d95861b38d44d93f6f698edbd2c6b.jpg">
+<img align="center" alt="banner" width="50%" heigth="40px" src="https://i.pinimg.com/736x/25/58/85/2558857e7c311aff0a51464f75956565.jpg">
 <h1 align="center">Hi 👋, I'm Cristea Bianca</h1>
 <h3 align="center">MERN Stack enthusiast</h3>
 <image align="right" alt="Coding" width="400" src"img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
