@@ -1,14 +1,15 @@
-<img align="center" alt="banner" width="100%" heigth="40px" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<img align="center" alt="banner" width="100%" heigth="20px" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <h1 align="center">Hi 👋, I'm Cristea Bianca</h1>
 <h3 align="center">MERN Stack enthusiast</h3>
 <image align="right" alt="Coding" width="400" src"img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
   - 🌱 I’m currently learning **MERN Stack**
-  
+
+- Project [Talks] (https://github.com/bianca-cristea/Talks.git)
+- Project [E-Commerce] (https://github.com/bianca-cristea/E-Commerce.git)
 - Project [Chat App](https://github.com/bianca-cristea/Chat-App.git)
-
 - Project [Brainwave](https://github.com/bianca-cristea/Brainwave.git)
-
 - Project [Dictionary](https://github.com/bianca-cristea/Dictionary.git)
+- and others
 
 - 👨‍💻 All of my projects are available at [https://github.com/bianca-cristea?tab=repositories](https://github.com/bianca-cristea?tab=repositories)
 
