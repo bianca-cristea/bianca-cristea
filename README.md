@@ -60,7 +60,7 @@
 </a> 
 
  <a href="https://www.w3schools.com/postman/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="60" height="60"/> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
