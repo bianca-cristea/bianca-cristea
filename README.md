@@ -3,11 +3,9 @@
 <image align="right" alt="Coding" width="400" src"img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
     
 
-- Project [Talks](https://github.com/bianca-cristea/Talks.git)
-- Project [E-Commerce](https://github.com/bianca-cristea/E-Commerce.git)
-- Project [Chat App](https://github.com/bianca-cristea/Chat-App.git)
-- Project [Brainwave](https://github.com/bianca-cristea/Brainwave.git)
-- Project [Dictionary](https://github.com/bianca-cristea/Dictionary.git)
+- Project [Job Application - Spring Boot + React](https://github.com/bianca-cristea/JobApplication)
+- Project [Chat App - MERN stack](https://github.com/bianca-cristea/Chat-App.git)
+- Project [Academic Portofolio Website - Next.js](https://github.com/bianca-cristea/Next.js-Project-for-practicum)
 - and others
 
  👨‍💻 All of my projects are available at [https://github.com/bianca-cristea?tab=repositories](https://github.com/bianca-cristea?tab=repositories)
