@@ -19,7 +19,7 @@
 </a>
   
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I've worked with:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
