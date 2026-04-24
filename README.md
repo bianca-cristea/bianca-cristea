@@ -18,9 +18,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bianca ștefania cristea" height="30" width="40" />
 </a>
   
-</p>
+ 
 <h3 align="left">Technologies and Tools: </h3>
-<p align="left"> 
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
   </a>
@@ -53,4 +53,4 @@
   </a>
 </p>
 
-</p>
+ 
