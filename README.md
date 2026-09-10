@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Cristea Bianca</h1> 
 <image align="right" alt="Coding" width="400" src"img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
     
-
+- Project [Eventify - Spring Boot + React](https://github.com/bianca-cristea/Chat-App.git](https://github.com/bianca-cristea/Eventify-App))
 - Project [Job Application - Spring Boot + React](https://github.com/bianca-cristea/JobApplication)
-- Project [Chat App - MERN stack](https://github.com/bianca-cristea/Chat-App.git)
 - Project [Academic Portofolio Website - Next.js](https://github.com/bianca-cristea/Next.js-Project-for-practicum)
-- and others
+- Project [Chat App - MERN Stack](https://github.com/bianca-cristea/Chat-App.git)
+
 
  👨‍💻 All of my projects are available at [https://github.com/bianca-cristea?tab=repositories](https://github.com/bianca-cristea?tab=repositories)
 
