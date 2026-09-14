@@ -23,15 +23,28 @@
 <h3 align="left">Technologies and Tools:</h3>
 
 <p align="left">
-  <!-- Languages -->
-  <a href="https://www.w3schools.com/java/">
+  <!-- Backend -->
+  <a href="https://www.java.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="50"/>
+  </a>
+
+  <!-- Database -->
+
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
   </a>
 
   <!-- Frontend -->
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+  </a>
   <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
   </a>
@@ -41,25 +54,13 @@
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
   </a>
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
-  </a>
-
-  <!-- Backend -->
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="50"/>
-  </a>
-
-  <!-- Database -->
-  <a href="https://www.w3schools.com/mysql/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  </a>
 
   <!-- Tools -->
-  <a href="https://www.w3schools.com/git/">
+
+  <a href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50"/>
   </a>
-  <a href="https://www.w3schools.com/postman/">
+  <a href="https://www.postman.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" width="50"/>
   </a>
 </p>
